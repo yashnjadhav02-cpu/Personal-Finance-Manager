@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api";
+const API_URL = "https://personal-finance-manager-z8z1.onrender.com/api";
 const userId = localStorage.getItem("userId");
 const loggedInUser = document.getElementById("logged-in-user");
 const username = localStorage.getItem("username");
